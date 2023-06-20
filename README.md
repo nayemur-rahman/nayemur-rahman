@@ -145,3 +145,37 @@
 <p style="background-color: #1a1a1a; color: #ffffff;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nayemspecial&" alt="nayemspecial" /></p>
 
 
+
+
+
+
+
+<p align="center" id="stats-container">
+  <a href="https://github.com/nayemur-rahman">
+    <img src="https://github-readme-stats.vercel.app/api?username=nayemur-rahman&show_icons=true&hide_border=true&count_private=true" alt="nayemur-rahman's Stats">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/nayemur-rahman">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayemur-rahman&hide_border=true" alt="nayemur-rahman's Streak">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/nayemur-rahman">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayemur-rahman&show_icons=true&hide_border=true&layout=compact" alt="nayemur-rahman's Top Languages">
+  </a>
+</p>
+
+<script>
+  const prefersDarkMode = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+
+  const statsContainer = document.getElementById('stats-container');
+  if (prefersDarkMode) {
+    statsContainer.style.backgroundColor = '#1a1a1a'; // Set dark mode background color
+  } else {
+    statsContainer.style.backgroundColor = '#ffffff'; // Set light mode background color
+  }
+</script>
+
