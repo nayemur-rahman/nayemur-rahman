@@ -66,7 +66,7 @@
 
 <span align="left">
   <a href="https://github.com/nayemur-rahman">
-    <img src="https://github-readme-stats.vercel.app/api?username=nayemur-rahman&theme=darcula&show_icons=true&hide_border=&count_private=true" alt="nayemur-rahman's Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=nayemur-rahman&theme=darcula&show_icons=true&hide_border=true&count_private=true" alt="nayemur-rahman's Stats">
   </a>
 </span>
 
@@ -132,7 +132,7 @@ true
 
 <span align="right">
   <a href="https://github.com/nayemur-rahman">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayemur-rahman&theme=darcula&hide_border=false" alt="nayemur-rahman's Streak">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayemur-rahman&theme=darcula&hide_border=true" alt="nayemur-rahman's Streak">
   </a>
 </span>
 
