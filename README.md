@@ -150,7 +150,7 @@
 
 
 
-<p align="center" id="stats-container">
+<p align="center" class="stats-container">
   <a href="https://github.com/nayemur-rahman">
     <img src="https://github-readme-stats.vercel.app/api?username=nayemur-rahman&show_icons=true&hide_border=true&count_private=true" alt="nayemur-rahman's Stats">
   </a>
@@ -168,14 +168,14 @@
   </a>
 </p>
 
-<script>
-  const prefersDarkMode = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
-
-  const statsContainer = document.getElementById('stats-container');
-  if (prefersDarkMode) {
-    statsContainer.style.backgroundColor = '#1a1a1a'; // Set dark mode background color
-  } else {
-    statsContainer.style.backgroundColor = '#ffffff'; // Set light mode background color
+<style>
+  .stats-container {
+    background-color: #ffffff; /* Set light mode background color */
   }
-</script>
 
+  @media (prefers-color-scheme: dark) {
+    .stats-container {
+      background-color: #1a1a1a; /* Set dark mode background color */
+    }
+  }
+</style>
