@@ -65,23 +65,18 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nayemspecial&show_icons=true&locale=en" alt="nayemspecial" /></p>
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nayemspecial&show_icons=true&locale=en&layout=compact" alt="nayemspecial" /></p>
-
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nayemspecial&show_icons=true&locale=en&layout=compact" alt="nayemspecial" /></p><p></p>
 
 - 🔭 I’m currently working on Digital IT Institute
+- 💬 Ask me about **Laravel**, **WordPress Theme Development** and **Elementor Page Buider**
 - 🌱 I’m currently learning **Vue.js**
-- 👯 I’m looking to collaborate on [Bengal Shop Ecommerce Website](bengal-shop.projuktiplus.com)
-- 👨‍💻 All of my projects are available at [projects dot projuktiplus dot com and github](projects dot projuktiplus dot com and github)
-- 📝 I regularly write articles on [projuktiplus.net and topit24.com](projuktiplus.net and topit24.com)
-- 💬 Ask me about **Laravel, WordPress Theme Development and Plugin Development**
+- 👯 I’m looking to collaborate on **DoctorApps**
+- 👨‍💻 All of my projects are available at Github
+- 📝 I regularly write articles on projuktiplus.net and topit24.com
 - 📫 How to reach me **nayemspecial@gmail.com**
 - 📄 Know about my experiences [admin.projuktiplus.com](admin.projuktiplus.com)
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=nayemspecial&" alt="nayemspecial" /></p>
-
-<h4>Stay connected with me</h4>
+<h4 align="left">Stay connected with me</h4>
 <p dir="auto">
   <a href="https://codepen.io/nayemspecial" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/CodePen-000000?style=flat-square&amp;logo=codepen&amp;logoColor=white" alt="CodePen" style="max-width: 100%;">
@@ -123,3 +118,15 @@
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&amp;logo=youtube&amp;logoColor=white" alt="YouTube" style="max-width: 100%;">
   </a>
 </p>
+
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nayemspecial&" alt="nayemspecial" /></p>
+
+<p style="background-color: #1a1a1a; color: #ffffff;">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nayemspecial&show_icons=true&locale=en" alt="nayemspecial" /></p>
+
+<p style="background-color: #1a1a1a; color: #ffffff;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nayemspecial&show_icons=true&locale=en&layout=compact" alt="nayemspecial" /></p>
+
+<p style="background-color: #1a1a1a; color: #ffffff;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nayemspecial&" alt="nayemspecial" /></p>
+
+
