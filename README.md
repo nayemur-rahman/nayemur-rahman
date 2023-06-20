@@ -63,9 +63,24 @@
   </a>
 </p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nayemspecial&show_icons=true&locale=en" alt="nayemspecial" /></p>
+<p align="center">
+  <a href="https://github.com/nayemur-rahman">
+    <img src="https://github-readme-stats.vercel.app/api?username=nayemur-rahman&theme=darcula&show_icons=true&hide_border=true&count_private=true" alt="nayemur-rahman's Stats">
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nayemspecial&show_icons=true&locale=en&layout=compact" alt="nayemspecial" /></p><p></p>
+<p align="center">
+  <a href="https://github.com/nayemur-rahman">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayemur-rahman&theme=darcula&hide_border=true" alt="nayemur-rahman's Streak">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/nayemur-rahman">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayemur-rahman&theme=darcula&show_icons=true&hide_border=true&layout=compact" alt="nayemur-rahman's Top Languages">
+  </a>
+</p>
+
 
 - 🔭 I’m currently working on Digital IT Institute
 - 💬 Ask me about **Laravel**, **WordPress Theme Development** and **Elementor Page Buider**
