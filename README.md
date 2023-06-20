@@ -66,17 +66,17 @@
 
 <span align="left">
   <a href="https://github.com/nayemur-rahman">
-    <img src="https://github-readme-stats.vercel.app/api?username=hasinhayder&theme=darculaCode&show_icons=true&hide_border=false&count_private=true" alt="nayemur-rahman's Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=nayemur-rahman&theme=darcula&show_icons=true&hide_border=&count_private=true" alt="nayemur-rahman's Stats">
   </a>
 </span>
 
 <span align="center">
   <a href="https://github.com/nayemur-rahman">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasinhayder&theme=darculaCode&show_icons=true&hide_border=false&layout=compact" alt="nayemur-rahman's Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayemur-rahman&theme=darcula&show_icons=true&hide_border=true&layout=compact" alt="nayemur-rahman's Top Languages">
   </a>
 </span>
 
-
+true
 - 🔭 I’m currently working on Digital IT Institute
 - 💬 Ask me about **Laravel**, **WordPress Theme Development** and **Elementor Page Buider**
 - 🌱 I’m currently learning **Vue.js**
@@ -132,7 +132,7 @@
 
 <span align="right">
   <a href="https://github.com/nayemur-rahman">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayemur-rahman&theme=darculaCode&hide_border=false" alt="nayemur-rahman's Streak">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayemur-rahman&theme=darcula&hide_border=false" alt="nayemur-rahman's Streak">
   </a>
 </span>
 
