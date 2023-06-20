@@ -76,7 +76,7 @@
   </a>
 </span>
 
-true
+
 - 🔭 I’m currently working on Digital IT Institute
 - 💬 Ask me about **Laravel**, **WordPress Theme Development** and **Elementor Page Buider**
 - 🌱 I’m currently learning **Vue.js**
