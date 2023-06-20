@@ -63,23 +63,18 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/nayemur-rahman">
-    <img src="https://github-readme-stats.vercel.app/api?username=nayemur-rahman&theme=darcula&show_icons=true&hide_border=true&count_private=true" alt="nayemur-rahman's Stats">
-  </a>
-</p>
 
-<p align="center">
+<span align="left">
   <a href="https://github.com/nayemur-rahman">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayemur-rahman&theme=darcula&hide_border=true" alt="nayemur-rahman's Streak">
+    <img src="https://github-readme-stats.vercel.app/api?username=hasinhayder&theme=darculaCode&show_icons=true&hide_border=false&count_private=true" alt="nayemur-rahman's Stats">
   </a>
-</p>
+</span>
 
-<p align="center">
+<span align="center">
   <a href="https://github.com/nayemur-rahman">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayemur-rahman&theme=darcula&show_icons=true&hide_border=true&layout=compact" alt="nayemur-rahman's Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasinhayder&theme=darculaCode&show_icons=true&hide_border=false&layout=compact" alt="nayemur-rahman's Top Languages">
   </a>
-</p>
+</span>
 
 
 - 🔭 I’m currently working on Digital IT Institute
@@ -135,29 +130,10 @@
 </p>
 
 
-<p style="background-color: #1a1a1a; color: #ffffff;">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nayemspecial&show_icons=true&locale=en" alt="nayemspecial" /></p>
-
-<p style="background-color: #1a1a1a; color: #ffffff;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nayemspecial&show_icons=true&locale=en&layout=compact" alt="nayemspecial" /></p>
-
-<p style="background-color: #1a1a1a; color: #ffffff;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nayemspecial&" alt="nayemspecial" /></p>
-
-
-
-
-<p align="center">
+<span align="right">
   <a href="https://github.com/nayemur-rahman">
-    <img src="https://github-readme-stats.vercel.app/api?username=nayemur-rahman&theme=darcula&show_icons=true&hide_border=true&count_private=true" alt="nayemur-rahman's Stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayemur-rahman&theme=darculaCode&hide_border=false" alt="nayemur-rahman's Streak">
   </a>
-</p>
+</span>
 
-<p align="center">
-  <a href="https://github.com/nayemur-rahman">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayemur-rahman&theme=darcula&hide_border=true" alt="nayemur-rahman's Streak">
-  </a>
-</p>
 
-<p align="center">
-  <a href="https://github.com/nayemur-rahman">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayemur-rahman&theme=darcula&show_icons=true&hide_border=true&layout=compact" alt="nayemur-rahman's Top Languages">
-  </a>
-</p>
