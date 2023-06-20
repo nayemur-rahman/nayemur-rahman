@@ -1,5 +1,5 @@
-<h1 align="left">Hey! 👋 Happy to see you </h1>
-<h3 align="left">A passionate Laravel and WordPress Developer</h3>
+<h1 align="left">Hey! 👋 Happy to see you ! </h1>
+<p><span style="font-size:26px; font-weight:300;">I'm Nayemur Rahman.</span> <span>A passionate <b>Laravel</b> and <b>WordPress</b> Developer. Let's build amazing things togeter. Enjoy your journey on Github! </span></p>
 
 <p dir="auto">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://laravel.com">
